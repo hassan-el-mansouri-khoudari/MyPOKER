@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_rankings"
+        android:icon="@android:drawable/btn_star_big_on"
+        android:title="@string/title_rankings" />
+
+    <item
+        android:id="@+id/navigation_add"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/title_add" />
+
+    <item
+        android:id="@+id/navigation_players"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="@string/title_players" />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="@string/title_settings" />
+
+</menu>
