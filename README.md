@@ -1,6 +1,6 @@
 # MyPoker
 
-#### MyPoker is an Android application that can be used to keep track of poker games between friends. 
+#### MyPoker is a highly simplified personal-utility Android application that can be used to keep track of poker games between friends. 
 
  - The interface is straightforward where one can :
       1) see his ranking over multiple instance of **time intervals** (Last game / Last 3 games / Last 7 games / All ).
